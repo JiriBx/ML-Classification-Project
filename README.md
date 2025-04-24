@@ -73,8 +73,8 @@ The CART model achieved:
 
 ## 📁 Repository Structure
 
-- `data/` → Promotion data
-- `notebooks/` → Jupyter notebook with charts/graphs/comments (`Apprentice_Chef_Dataset.xlsx`)
+- `data/` → Promotion data (`Apprentice_Chef_Dataset.xlsx`)
+- `notebooks/` → Jupyter notebook with charts/graphs/comments 
 - `output/` → Notebook with results in HTML format (`ML-Classification-Project.html`)
 - `README.md` → You're reading it!
 
